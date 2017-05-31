@@ -1,0 +1,9 @@
+D:\Development\OnionApp\OnionApp.Infrastructure.Business\bin\Debug\OnionApp.Infrastructure.Business.dll
+D:\Development\OnionApp\OnionApp.Infrastructure.Business\bin\Debug\OnionApp.Infrastructure.Business.pdb
+D:\Development\OnionApp\OnionApp.Infrastructure.Business\bin\Debug\OnionApp.Domain.Core.dll
+D:\Development\OnionApp\OnionApp.Infrastructure.Business\bin\Debug\OnionApp.Services.Interfaces.dll
+D:\Development\OnionApp\OnionApp.Infrastructure.Business\bin\Debug\OnionApp.Domain.Core.pdb
+D:\Development\OnionApp\OnionApp.Infrastructure.Business\bin\Debug\OnionApp.Services.Interfaces.pdb
+D:\Development\OnionApp\OnionApp.Infrastructure.Business\obj\Debug\OnionApp.Infrastructure.Business.csprojResolveAssemblyReference.cache
+D:\Development\OnionApp\OnionApp.Infrastructure.Business\obj\Debug\OnionApp.Infrastructure.Business.dll
+D:\Development\OnionApp\OnionApp.Infrastructure.Business\obj\Debug\OnionApp.Infrastructure.Business.pdb

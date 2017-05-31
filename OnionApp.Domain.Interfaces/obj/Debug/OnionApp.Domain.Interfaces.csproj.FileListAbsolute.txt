@@ -1,0 +1,7 @@
+D:\Development\OnionApp\OnionApp.Domain.Interfaces\bin\Debug\OnionApp.Domain.Interfaces.dll
+D:\Development\OnionApp\OnionApp.Domain.Interfaces\bin\Debug\OnionApp.Domain.Interfaces.pdb
+D:\Development\OnionApp\OnionApp.Domain.Interfaces\bin\Debug\OnionApp.Domain.Core.dll
+D:\Development\OnionApp\OnionApp.Domain.Interfaces\bin\Debug\OnionApp.Domain.Core.pdb
+D:\Development\OnionApp\OnionApp.Domain.Interfaces\obj\Debug\OnionApp.Domain.Interfaces.csprojResolveAssemblyReference.cache
+D:\Development\OnionApp\OnionApp.Domain.Interfaces\obj\Debug\OnionApp.Domain.Interfaces.dll
+D:\Development\OnionApp\OnionApp.Domain.Interfaces\obj\Debug\OnionApp.Domain.Interfaces.pdb

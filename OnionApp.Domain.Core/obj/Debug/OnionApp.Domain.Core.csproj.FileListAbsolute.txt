@@ -1,0 +1,5 @@
+D:\Development\OnionApp\OnionApp.Domain.Core\bin\Debug\OnionApp.Domain.Core.dll
+D:\Development\OnionApp\OnionApp.Domain.Core\bin\Debug\OnionApp.Domain.Core.pdb
+D:\Development\OnionApp\OnionApp.Domain.Core\obj\Debug\OnionApp.Domain.Core.csprojResolveAssemblyReference.cache
+D:\Development\OnionApp\OnionApp.Domain.Core\obj\Debug\OnionApp.Domain.Core.dll
+D:\Development\OnionApp\OnionApp.Domain.Core\obj\Debug\OnionApp.Domain.Core.pdb

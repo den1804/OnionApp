@@ -1,0 +1,14 @@
+D:\Development\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\OnionApp.Infrastructure.Data.dll.config
+D:\Development\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\OnionApp.Infrastructure.Data.dll
+D:\Development\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\OnionApp.Infrastructure.Data.pdb
+D:\Development\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\EntityFramework.dll
+D:\Development\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Development\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\OnionApp.Domain.Core.dll
+D:\Development\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\OnionApp.Domain.Interfaces.dll
+D:\Development\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\OnionApp.Domain.Core.pdb
+D:\Development\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\OnionApp.Domain.Interfaces.pdb
+D:\Development\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\EntityFramework.xml
+D:\Development\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Development\OnionApp\OnionApp.Infrastructure.Data\obj\Debug\OnionApp.Infrastructure.Data.csprojResolveAssemblyReference.cache
+D:\Development\OnionApp\OnionApp.Infrastructure.Data\obj\Debug\OnionApp.Infrastructure.Data.dll
+D:\Development\OnionApp\OnionApp.Infrastructure.Data\obj\Debug\OnionApp.Infrastructure.Data.pdb
